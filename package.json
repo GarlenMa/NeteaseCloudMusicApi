@@ -12,6 +12,9 @@
     "音乐",
     "网易云音乐nodejs"
   ],
+  "engines": {
+        "node": "10.16.0"
+    },
   "author": "binaryify",
   "license": "MIT",
   "dependencies": {
